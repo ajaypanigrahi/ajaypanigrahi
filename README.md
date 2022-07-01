@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajaypanigrahi
-- 👀 I’m interested in serverless frameworks,kuberenetes and DevOps
-- 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on serverless frameworks,kuberenetes and DevOps
+- 👀 I’m interested in serverless, event driven,kuberenetes and DevOps
+- 🌱 I’m currently learning Terraform, Ranch
+- 💞️ I’m looking to collaborate on serverless,kuberenetes and DevOps
 - 📫 How to reach me ...
 
 <!---
