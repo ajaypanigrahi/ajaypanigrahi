@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaypanigrahi
 - 👀 I’m interested in serverless, event driven,kuberenetes and DevOps
-- 🌱 I’m currently learning Terraform, Ranch
+- 🌱 I’m currently learning Terraform, Istio and GCP
 - 💞️ I’m looking to collaborate on serverless,kuberenetes and DevOps
 - 📫 How to reach me ...
 contact me via my Linkedin, check the website
